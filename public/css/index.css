@@ -37,8 +37,8 @@ a[href]:hover ~ .title {
 
   /*  Використовуйте цей селектор :link  */
 
-.lesson-four-task-four:link {
-    color: red;
+.lesson-four-task-four #sidebar a:link {
+  color: red;
 }
 
   /*  ЗаЗавдання №5. Змініть колір фону кнопки на синій, коли кнопка активна */
